@@ -1,8 +1,10 @@
 # Hi there! 👋 I'm Dhruv Verma, a Dynamic Software Engineer 🚀
 
 ## About Me
-I have a diverse background spanning frontend, backend, and full-stack development. While my primary focus is on crafting aesthetically pleasing websites with engaging user experiences through advanced web animations, I also possess a strong understanding of server-side technologies and architecture.
-Specializing in React.js, Next.js, and UI/UX design, I bring digital visions to life with impeccable design and functionality. However, my expertise extends beyond the frontend realm, as I'm also proficient in Node.js and Express.js, allowing me to build robust and scalable web applications.
+
+I'm currently working on SDLC processes, harnesses, ambient memory systems, and local AI apps built natively for macOS.
+
+My background spans frontend, backend, and full-stack development, including React.js, Next.js, Node.js, Express.js, and UI/UX design.
 
 
 ### Areas of Expertise:
