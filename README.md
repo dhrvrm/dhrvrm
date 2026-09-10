@@ -6,14 +6,14 @@ I build AI applications and developer tools, with experience across backend syst
 
 ## Currently working on
 
-- **SDLC processes and developer tooling** — workflows for planning, implementation, code review, testing, and evaluation with AI agents.
-- **Agent harnesses** — the tools, context, and execution controls that support AI-assisted software development.
-- **Ambient memory systems** — capturing and retrieving useful context so applications can support ongoing work.
-- **Local AI on macOS** — native applications with on-device inference, speech recognition, and private data storage.
+- **SDLC processes and developer tooling:** workflows for planning, implementation, code review, testing, and evaluation with AI agents.
+- **Agent harnesses:** the tools, context, and execution controls that support AI-assisted software development.
+- **Ambient memory systems:** capturing and retrieving useful context so applications can support ongoing work.
+- **Local AI on macOS:** native applications with on-device inference, speech recognition, and private data storage.
 
 ## Selected project
 
-**[OpenLoop](https://github.com/dhrvrm/openloop)** — a native macOS app bringing together voice capture, contextual memory, and local AI. My work here spans application architecture, speech pipelines, memory and retrieval, and evaluation tooling.
+**[OpenLoop](https://github.com/dhrvrm/openloop)** is a native macOS app bringing together voice capture, contextual memory, and local AI. My work here spans application architecture, speech pipelines, memory and retrieval, and evaluation tooling.
 
 ## Technical stack
 
